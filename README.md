@@ -19,7 +19,6 @@
 
 参考
 - [令和3年度情報通信メディアの利用時間と情報行動に関する調査報告書 概要](https://www.soumu.go.jp/main_content/000831289.pdf)
-- [SNS疲れに関するアンケート調査](https://www.asmarq.co.jp/data/mr201903sns-tired/)
 
 
 ## 主な利用シーン
